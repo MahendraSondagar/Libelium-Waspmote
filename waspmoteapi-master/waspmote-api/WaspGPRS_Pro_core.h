@@ -23,10 +23,9 @@
 
 */
 
- /*! \def WaspGPRS_Pro_core_h
-    \brief The library flag
 
-  */
+
+
 #ifndef WaspGPRS_Pro_core_h
 #define WaspGPRS_Pro_core_h
 
