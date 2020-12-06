@@ -1,0 +1,3 @@
+[submodule "waspmoteapi-master"]
+	path = waspmoteapi-master
+	url = https://github.com/MahendraSondagar/waspmoteapi-master
